@@ -1,0 +1,76 @@
+ :root {
+  --width: 50%;
+  --mleft: auto;
+  --mright: auto;
+}
+
+body {
+    background-color: white;
+    width: 100%;
+    margin: auto;
+    background-color: #f1f1f1;
+    font-family: sans-serif;
+/*    font-size: 100%; */
+}
+
+P.blocktext {
+    margin-left: var(--mleft);
+    margin-right: var(--mright);
+    width: var(--width);
+}
+
+
+hr {
+    margin-left: var(--mleft);
+    margin-right: var(--mright);
+    width: var(--width);
+}
+
+h1 {
+    margin-left: var(--mleft);
+    margin-right: var(--mright);
+    width: var(--width);
+}
+
+h2 {
+    margin-left: var(--mleft);
+    margin-right: var(--mright);
+    width: var(--width);
+}
+
+h3 {
+    margin-left: var(--mleft);
+    margin-right: var(--mright);
+    width: var(--width);
+}
+
+h4 {
+    margin-left: var(--mleft);
+    margin-right: var(--mright);
+    width: var(--width);
+}
+
+h5 {
+    margin-left: var(--mleft);
+    margin-right: var(--mright);
+    width: var(--width);
+}
+
+h6 {
+    margin-left: var(--mleft);
+    margin-right: var(--mright);
+    width: var(--width);
+}
+
+li {
+    margin-left: var(--mleft);
+    margin-right: var(--mright);
+    width: var(--width);
+}
+
+p {
+    margin-left: var(--mleft);
+    margin-right: var(--mright);
+    width: var(--width);
+}
+
